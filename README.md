@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farhan
 - 👀 I’m interested in learning and tackling challenging problems and finding efficient solutions with code
-- 🌱 I’m currently learning java, c++
+- 🌱 I’m currently learning java, html, javascript 
 - 😄 Pronouns: He/Him
 
 <!---
